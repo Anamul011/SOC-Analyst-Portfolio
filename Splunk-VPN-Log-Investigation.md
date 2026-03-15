@@ -207,3 +207,24 @@ source_ip="107.3.206.58"
 
 ### 🛡️ SOC Analyst Portfolio Project  
 *Focused on Security Operations, Threat Detection & Incident Response*
+
+---
+
+## ⚖️ Dataset & Licensing Notice
+
+This project references a VPN log dataset originally provided through the **TryHackMe – Splunk Room** for educational training purposes.
+
+In accordance with platform licensing terms and content distribution policies, the dataset is **not included, redistributed, or hosted** within this repository.
+
+This repository is intended to document:
+
+- Investigation methodology  
+- SIEM query logic  
+- Analytical workflow  
+- Findings and conclusions  
+
+To replicate this lab environment, please access the Splunk room directly through your own TryHackMe account and obtain the dataset from the official source.
+
+---
+
+*All analysis presented here reflects independent investigative work conducted within an authorized training environment.*
