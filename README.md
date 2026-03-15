@@ -70,7 +70,7 @@ Below are structured investigation case studies demonstrating applied SOC workfl
 👉 [View Lab Folder](./Splunk-VPN-Log-Investigation.md)
 
 ---
-
+<!--
 ### 🔹 Network Traffic Analysis (Wireshark)
 
 - Analyzed HTTP traffic patterns  
@@ -90,10 +90,12 @@ Below are structured investigation case studies demonstrating applied SOC workfl
 👉 [View Lab Folder](./Phishing-Investigation)
 
 ---
+-->
 
 *(More labs will be added progressively.)*
 
 ---
+
 
 ## 🎓 Certifications
 
