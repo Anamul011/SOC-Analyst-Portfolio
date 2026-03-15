@@ -77,6 +77,7 @@ Used default search view after ingestion.
 
 📊 **Result:**  
 **Total events in log file: 2,862**
+![Step 2 – Total Event Count](Images/IMG-Splunk-VPN-Log-Investigation/step2_ingestion.png)
 
 ✅ Confirms proper ingestion and indexing.
 
