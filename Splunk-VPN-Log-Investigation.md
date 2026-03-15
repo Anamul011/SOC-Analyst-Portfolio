@@ -64,6 +64,8 @@ This exercise simulates foundational **SOC analyst responsibilities** such as:
 ### 📸 Evidence
 
 ![Step 1 - Log Ingestion](Images/IMG-Splunk-VPN-Log-Investigation/step1.1_ingestion.png)
+![Step 1 - Log Ingestion](Images/IMG-Splunk-VPN-Log-Investigation/step1.2_ingestion.png)
+
 
 
 ---
