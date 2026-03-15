@@ -61,6 +61,11 @@ This exercise simulates foundational **SOC analyst responsibilities** such as:
 - `timestamp`
 - `event_type`
 
+### 📸 Evidence
+
+![Step 1 - Log Ingestion](Images/IMG-Splunk-VPN-Log-Investigation/step1.1_ingestion.png)
+
+
 ---
 
 ### 🔹 Step 2 – Total Event Count
