@@ -67,7 +67,7 @@ Below are structured investigation case studies demonstrating applied SOC workfl
 - Conducted geo-based exclusion filtering  
 - Identified targeted IP activity patterns  
 
-👉 [View Lab Folder](./Splunk-VPN-Log-Investigation)
+👉 [View Lab Folder](./Splunk-VPN-Log-Investigation.md)
 
 ---
 
