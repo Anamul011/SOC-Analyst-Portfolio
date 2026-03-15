@@ -96,6 +96,8 @@ username="Maleena"
 
 📊 **Result:**  
 **60 events**
+### 📸 Evidence
+![Step 3 – User Activity Analysis](Images/IMG-Splunk-VPN-Log-Investigation/step1.1_ingestion.png)
 
 🔎 **SOC Insight:**  
 User-based event analysis helps detect:
@@ -117,6 +119,8 @@ source_ip="107.14.182.38"
 
 📊 **Result:**  
 **Associated username: Smith**
+### 📸 Evidence
+![Step 4 – IP to Username Correlation](Images/IMG-Splunk-VPN-Log-Investigation/step1.1_ingestion.png)
 
 💡 Demonstrates IP-to-user attribution — critical in incident response.
 
@@ -134,6 +138,8 @@ NOT source_country="France"
 
 📊 **Result:**  
 **2,814 events**
+### 📸 Evidence
+![Step 5 – Country-Based Event Filtering](Images/IMG-Splunk-VPN-Log-Investigation/step1.1_ingestion.png)
 
 🌍 **SOC Relevance:**
 - Detect abnormal login regions  
@@ -154,6 +160,8 @@ source_ip="107.3.206.58"
 
 📊 **Result:**  
 **14 events**
+### 📸 Evidence
+![Step 6 – Targeted IP Investigation](Images/IMG-Splunk-VPN-Log-Investigation/step1.1_ingestion.png)
 
 ✔ Confirmed by reviewing event list and validating IP consistency.
 
